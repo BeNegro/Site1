@@ -1,0 +1,134 @@
+body{ background-color: #a8a5c9;
+    font-family: 'minhafonte';}
+    
+       h1{ font-family: 'minhafonte'; 
+           position: relative;
+           left: 1180px;
+           color: #070738;
+           font-size: 60pt;
+        top: 100px;}
+        
+       p{font-family: 'textocorrido';
+          color:#070738;
+          position: relative;
+          text-align: justify;
+          left: 1050px;
+          font-size: 20pt;
+          width: 650px; margin: left 1000px; margin-right: 70px;top: 60px;}
+    
+        nav {background-color: #9593b4;
+              position:relative;
+              top: -8px;
+              height: 130px;
+              width: 1905px;
+              left: -10px;
+              text-align: center;
+              border-bottom-left-radius: 30px;
+              border-bottom-right-radius: 30px;}
+    
+        nav a{float: right;
+        text-decoration: none;
+        color: #ffffff;;
+        padding: 45px;
+        font-size: 20pt;
+        text-align: right;}
+    
+    .icone{ position: absolute;top: 25px;left: 30px; width: 100px;}
+    
+    .EU{ position: relative;
+        width: 620px;
+        left: -8px;
+        top: -481px;}
+        
+    .CONTATO {transition: all 1s; cursor: pointer;}
+    .CONTATO:hover {filter: blur(10px);}
+
+    .SEMESTRE3 {transition: all 1s; cursor: pointer;}
+    .SEMESTRE3:hover {filter: blur(10px);}
+
+    .SEMESTRE2 {transition: all 1s; cursor: pointer;}
+    .SEMESTRE2:hover {filter: blur(10px);}
+
+    .SEMESTRE1 {transition: all 1s; cursor: pointer;}
+    .SEMESTRE1:hover {filter: blur(10px);}
+
+    .INICIO {transition: all 1s; cursor: pointer;}
+    .INICIO:hover {filter: blur(10px);}
+
+    .FUNDO {width: 2000px;
+            left: -10px;
+            top: -10px;}
+            .FUNDO1 {width: 2500px;
+                left: -10px;
+                top: -10px;}
+
+.REDESS {position: relative;
+    text-align: center;
+    right: 1150px;
+    top: -100px;}
+.ACOMPANHE {position: relative;
+            left: 730px;}
+.BOTOES {Position: relative;
+         left: 450px;
+        top: 75px;}
+.CONTATOS {position: relative;
+    top: 50px;}
+.PRIMEIRO {position: relative;
+        text-align: center;
+        right: 1150px;
+        top: -120px;}
+.SOBRE1 {position: relative;
+        text-align: center;
+        left: 1600px;
+        width: 1000px;
+    font-size: 30px;}
+.SEGUNDO {position: relative;
+            text-align: center;
+            right: 1150px;
+            top: -100px;}
+.SOBRE2 {position: relative;
+            text-align: center;
+            left: 1600px;
+            width: 1000px;}
+.TERCEIRO {position: relative;
+                text-align: center;
+                right: 1150px;
+                top: -100px;}
+.SOBRE3 {position: relative;
+                text-align: center;
+                left: 1600px;
+                width: 1000px;}
+.TRABALHO {position: relative;
+    text-align: center;
+    left: 90px;
+    top: 570px;
+    color: #070738;}
+.LINK {position: relative;
+text-align: center;
+left: 0px;
+top: 555px;
+font-size: 20pt;
+color: #460d65;}
+.TRABALHO2 {position: relative;
+    text-align: center;
+    left: 90px;
+    top: 600px;
+    color: #070738;}
+.LINK2 {position: relative;
+    text-align: center;
+    left: 0px;
+    top: 585px;
+    font-size: 20pt;
+    color: #460d65;}
+    .TRABALHO3 {position: relative;
+        text-align: center;
+        left: 1720px;
+        top: 650px;
+        color: #070738;}
+    .LINK3 {position: relative;
+        text-align: center;
+        left: 1100px;
+        top: 650px;
+        font-size: 20pt;
+        color: #460d65;}
+              
